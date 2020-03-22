@@ -1,0 +1,6 @@
+# Clicky-The-Game
+This program was the first project that I worked on and sent out to my friends to test and to download for themselves. It may not be much, but it will always hold a special place in my heart. This game was built using Visual Studio and the C# programming language. At the time I created this was obsessed with idle clicking games. I decided to try and create my own to see how far I could get with the knowledge that I had. The finished product contained many power-ups and upgrades. Even a prestige system. It's nothing special, but I did enjoy creating it. The main motivation for creating this game, and continuing to develop it was that after I sent a very early version to a few friends and my college roommate, they ended up turning it into a competition to see how could get the most points and the largest score. Seeing that something I had created was causing a little bit of fun motivated me to continue to program and develop the program and along the way, I learned a lot of skills that I was able to apply to later skills down the line.
+
+![Screenshot of Clicky, The Game](http://alexdgray.com/imgs/clicky.png)
+
+Downloads for all versions of this game can be found [here](http://www.mediafire.com/folder/1h6h0y1668f3h/Clicky_-_The_Game)
